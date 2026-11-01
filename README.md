@@ -5,7 +5,19 @@ Proyecto desarrollado para la materia **Metodología y Testing** de la **Tecnica
 Objetivo del Proyecto:
 Desarrollar un sistema de gestión veterinaria en Java aplicando Programación Orientada a Objetos (POO) y una arquitectura modular. Busca automatizar procesos clave —como vacunación, turnos y finanzas a través de una consola interactiva, logrando un código limpio, estructurado y listo para testing.
 
-https://github.com/Renzolix/vetcare-testing/blob/main/README.md#equipo-de-trabajo-y-roles-scrum
+##  Equipo de Trabajo y Roles Scrum
+
+| Nombre del Integrante | Rol en Scrum | Responsabilidades Principales |
+| :--- | :--- | :--- |
+| **Renzo Gonzalez** | **Scrum Master & Dev Lead** | Gestión del proceso ágil (Trello), arquitectura de software y desarrollo core. |
+| **Joel Aricoma** | **Product Owner** | Definición y priorización del Backlog, redacción de Historias de Usuario. |
+| **Jaime Ignacio** | **QA / Test Automation Lead** | Implementación y ejecución de la suite de pruebas unitarias automatizadas. |
+| **Joaquin Rinaldoni** | **Documentation & UX Lead** | Redacción de la matriz formal de pruebas y documentación general del proyecto. |
+
+---
+<img width="1919" height="797" alt="Captura de pantalla 2026-10-30 181454" src="https://github.com/user-attachments/assets/b6523475-8143-436a-b68d-ce5871117327" />
+<img width="1919" height="797" alt="Captura de pantalla 2026-10-30 182010" src="https://github.com/user-attachments/assets/a74ded54-af9c-4b71-bbdd-966d5cc8e8ca" />
+<img width="1919" height="801" alt="Captura de pantalla 2026-10-30 182322" src="https://github.com/user-attachments/assets/98504b81-addd-498e-89d7-3feb96a7d7a9" />
 
 ## 🚀 Funcionalidades Principales
 
