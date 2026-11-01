@@ -43,10 +43,17 @@ El código está organizado modularmente bajo el principio de separación de res
 * **JUnit 5** para pruebas unitarias automatizadas.
 * **Visual Studio Code** como entorno de desarrollo.
 
-* ## ▶️ Instrucciones de Ejecución
+##  Cómo Ejecutar el Proyecto y las Pruebas
+
+## ▶️ necesario
 
 1. Abre el proyecto en tu entorno de desarrollo (Visual Studio Code).
 2. Asegúrate de tener instalado el **JDK (Java Development Kit)**.
-3. Ubica la clase principal en:
-`src/main/java/com/vetcare/MainCargarDatos.java`
-4. Ejecuta el archivo e interactúa con el menú en la consola.
+
+
+## ▶️ Pasos de Ejecición
+
+1. Clona el repositorio en tu terminal o entorno de desarrollo:
+   ```bash
+   git clone [https://github.com/Yoel2022/mt-vetcare.git](https://github.com/Yoel2022/mt-vetcare.git)
+   cd mt-vetcare 
