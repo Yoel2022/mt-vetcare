@@ -5,6 +5,8 @@ Proyecto desarrollado para la materia **Metodología y Testing** de la **Tecnica
 Objetivo del Proyecto:
 Desarrollar un sistema de gestión veterinaria en Java aplicando Programación Orientada a Objetos (POO) y una arquitectura modular. Busca automatizar procesos clave —como vacunación, turnos y finanzas a través de una consola interactiva, logrando un código limpio, estructurado y listo para testing.
 
+https://github.com/Renzolix/vetcare-testing/blob/main/README.md#equipo-de-trabajo-y-roles-scrum
+
 ## 🚀 Funcionalidades Principales
 
 * **Gestión de Pacientes:** Registro de mascotas en listas (`ArrayList`) con búsqueda rápida de historiales por nombre.
