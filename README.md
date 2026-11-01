@@ -55,5 +55,5 @@ El código está organizado modularmente bajo el principio de separación de res
 
 1. Clona el repositorio en tu terminal o entorno de desarrollo:
    ```bash
-   git clone [https://github.com/Yoel2022/mt-vetcare.git](https://github.com/Yoel2022/mt-vetcare.git)
-   cd mt-vetcare 
+  git clone [https://github.com/Yoel2022/mt-vetcare.git](https://github.com/Yoel2022/mt-vetcare.git)
+cd mt-vetcare
